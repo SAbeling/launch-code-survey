@@ -1,2 +1,2 @@
 # launch-code-survey
-Survey Agregation
+Survey Aggregation
